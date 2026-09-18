@@ -1,16 +1,16 @@
 {
   "run": {
-    "run_id": 1,
-    "started_at": "2026-09-18T07:09:00+00:00",
-    "finished_at": "2026-09-18T07:11:20+00:00",
+    "run_id": 2,
+    "started_at": "2026-09-18T09:43:59+00:00",
+    "finished_at": "2026-09-18T09:46:31+00:00",
     "status": "partial",
     "total_sources": 47,
     "ok_sources": 4,
     "job_count": 37,
-    "new_count": 37,
-    "updated_count": 0,
+    "new_count": 0,
+    "updated_count": 3,
     "closed_count": 0,
-    "error_summary": "腾讯: 页面可访问，但未提取到岗位；可能需要更新适配规则\n阿里巴巴: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n百度: 页面可访问，但未提取到岗位；可能需要更新适配规则\n美团: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n京东: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n快手: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小红书: 页面可访问，但未提取到岗位；可能需要更新适配规则\n拼多多: 页面可访问，但未提取到岗位；可能需要更新适配规则\n滴滴: 页面可访问，但未提取到岗位；可能需要更新适配规则\n哔哩哔哩: 页面可访问，但未提取到岗位；可能需要更新适配规则\n科大讯飞: 页面可访问，但未提取到岗位；可能需要更新适配规则\n华为: 页面可访问，但未提取到岗位；可能需要更新适配规则\n比亚迪: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蔚来: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小鹏汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n理想汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小米集团/小米汽车: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n吉利控股: 页面可访问，但未提取到岗位；可能需要更新适配规则\n零跑汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n上汽通用五菱: 页面可访问，但未提取到岗位；可能需要更新适配规则\n奇瑞汽车: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n宁德时代: 页面可访问，但未提取到岗位；可能需要更新适配规则\n亿纬锂能: 页面可访问，但未提取到岗位；可能需要更新适配规则\n国轩高科: 页面可访问，但未提取到岗位；可能需要更新适配规则\n欣旺达: 页面可访问，但未提取到岗位；可能需要更新适配规则\n中创新航: 页面可访问，但未提取到岗位；可能需要更新适配规则\n远景科技集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n古茗: 页面可访问，但未提取到岗位；可能需要更新适配规则\n喜茶: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蜜雪集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n百胜中国: 页面可访问，但未提取到岗位；可能需要更新适配规则\n盒马: 页面可访问，但未提取到岗位；可能需要更新适配规则\nBabycare: 页面可访问，但未提取到岗位；可能需要更新适配规则\n元气森林: 页面可访问，但未提取到岗位；可能需要更新适配规则\n华润饮料/怡宝: 页面可访问，但未提取到岗位；可能需要更新适配规则\n达能中国: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n中粮集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蒙牛: 页面可访问，但未提取到岗位；可能需要更新适配规则\n伊利: 页面可访问，但未提取到岗位；可能需要更新适配规则\n仙乐健康: 页面可访问，但未提取到岗位；可能需要更新适配规则\n东鹏饮料: 页面可访问，但未提取到岗位；可能需要更新适配规则\nManner咖啡: 页面可访问，但未提取到岗位；可能需要更新适配规则\n霸王茶姬: 页面可访问，但未提取到岗位；可能需要更新适配规则"
+    "error_summary": "腾讯: 页面可访问，但未提取到岗位；可能需要更新适配规则\n阿里巴巴: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n百度: 页面可访问，但未提取到岗位；可能需要更新适配规则\n美团: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n京东: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n快手: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小红书: 页面可访问，但未提取到岗位；可能需要更新适配规则\n拼多多: 页面可访问，但未提取到岗位；可能需要更新适配规则\n滴滴: 页面可访问，但未提取到岗位；可能需要更新适配规则\n哔哩哔哩: 页面加载超过 45 秒\n科大讯飞: 页面可访问，但未提取到岗位；可能需要更新适配规则\n华为: 页面可访问，但未提取到岗位；可能需要更新适配规则\n比亚迪: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蔚来: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小鹏汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n理想汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n小米集团/小米汽车: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n吉利控股: 页面可访问，但未提取到岗位；可能需要更新适配规则\n零跑汽车: 页面可访问，但未提取到岗位；可能需要更新适配规则\n上汽通用五菱: 页面可访问，但未提取到岗位；可能需要更新适配规则\n奇瑞汽车: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n宁德时代: 页面可访问，但未提取到岗位；可能需要更新适配规则\n亿纬锂能: 页面可访问，但未提取到岗位；可能需要更新适配规则\n国轩高科: 页面可访问，但未提取到岗位；可能需要更新适配规则\n欣旺达: 页面可访问，但未提取到岗位；可能需要更新适配规则\n中创新航: 页面可访问，但未提取到岗位；可能需要更新适配规则\n远景科技集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n古茗: 页面可访问，但未提取到岗位；可能需要更新适配规则\n喜茶: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蜜雪集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n百胜中国: 页面可访问，但未提取到岗位；可能需要更新适配规则\n盒马: 页面可访问，但未提取到岗位；可能需要更新适配规则\nBabycare: 页面可访问，但未提取到岗位；可能需要更新适配规则\n元气森林: 页面可访问，但未提取到岗位；可能需要更新适配规则\n华润饮料/怡宝: 页面可访问，但未提取到岗位；可能需要更新适配规则\n达能中国: 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架\n中粮集团: 页面可访问，但未提取到岗位；可能需要更新适配规则\n蒙牛: 页面可访问，但未提取到岗位；可能需要更新适配规则\n伊利: 页面可访问，但未提取到岗位；可能需要更新适配规则\n仙乐健康: 页面可访问，但未提取到岗位；可能需要更新适配规则\n东鹏饮料: 页面可访问，但未提取到岗位；可能需要更新适配规则\nManner咖啡: 页面可访问，但未提取到岗位；可能需要更新适配规则\n霸王茶姬: 页面可访问，但未提取到岗位；可能需要更新适配规则"
   },
   "jobs": [
     {
@@ -32,11 +32,11 @@
       "score": 92,
       "content_hash": "535572413d6b41af3f9dce584de9895b9a56e873e65259b2d87c66905b1ab3b7",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：海外C端投放与安装—注册—留存—付费漏斗",
@@ -49,7 +49,7 @@
       ],
       "score_band": "强匹配",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "e4282bdb5b9a9a05c8497b7c1a87ec289e48771e2f1df9d4155d5e732255e6be",
@@ -70,11 +70,11 @@
       "score": 75,
       "content_hash": "5f35037db5341a3f580f2757db117fca1969cbcf3cbceb638285a1d3b6a9160f",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：7个项目一线检查与整改闭环",
@@ -86,7 +86,7 @@
       ],
       "score_band": "推荐",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "d32e9aacf0aa0f618a4af6e0ad919184d7e14f7d6690efea824be3320c686117",
@@ -107,11 +107,11 @@
       "score": 75,
       "content_hash": "21395d1458b7dbd9a6168e8e5d1113e165e8de054868fbe223e57ee8a0a28431",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：7个项目一线检查与整改闭环",
@@ -123,7 +123,7 @@
       ],
       "score_band": "推荐",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "e35d49ea3c47b429ee74fa594d227e5fc9ca1932fd6e6eb7eb38274e5c4b41c5",
@@ -144,11 +144,11 @@
       "score": 70,
       "content_hash": "89dd9bfc73b7eb73f1603e241932b5e6afd340e9baadabb94e988b3598609862",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：Python/SQL数据分析与AI工具应用",
@@ -159,7 +159,7 @@
       ],
       "score_band": "推荐",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "038d7970cbeec23cb315e171f67a451bae0328cde34d5500c632d4c7d09ceafa",
@@ -180,11 +180,11 @@
       "score": 70,
       "content_hash": "05ebbbd7234f176529e169d2b0f9909239fd6758d0d901598f004d09a7544c32",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：Python/SQL数据分析与AI工具应用",
@@ -195,7 +195,7 @@
       ],
       "score_band": "推荐",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "c09bb0187c441852a71c7ccbc7274c55f637b33fc323efd80e0aecd5068bb74e",
@@ -216,11 +216,11 @@
       "score": 67,
       "content_hash": "1a3497297b1fa9299506a05e9acc3398f5c92d8bc289f4436b8a1c9f964993ac",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：7个项目一线检查与整改闭环",
@@ -231,7 +231,7 @@
       ],
       "score_band": "推荐",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "1a7c5fe8725b65eb809dd367a0e64eaf2c9ac14ee581d5e462756751eda11f18",
@@ -252,11 +252,11 @@
       "score": 63,
       "content_hash": "7fecf8e6aa79f65c3f11c6bea76a83585b7138a9e660c856c118b13b3f78b9f0",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：管培生",
         "对应经历：多方沟通和跨部门项目推进",
@@ -266,7 +266,7 @@
       ],
       "score_band": "可关注",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "a26558e99746f07deb367b0766299872f10166cb32929dd49b852e4cf417c220",
@@ -287,11 +287,11 @@
       "score": 46,
       "content_hash": "e3b7d9f9402d698716119909f22db61ce73fb963754d5c27e1cba6272cedd50d",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：采购",
         "对应经历：Python/SQL数据分析与AI工具应用",
@@ -303,7 +303,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "b00d12eb821d26bfe13a0da057a5add1c5cb4f4bc9c83123f0cd60e451f8d20d",
@@ -324,11 +324,11 @@
       "score": 45,
       "content_hash": "81be5650466e2dba5aab446f31225adb9ac8587ef37ee36d3fd547b48389623a",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：ai产品、产品经理",
         "对应经历：Python/SQL数据分析与AI工具应用",
@@ -338,7 +338,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "897c7746dc9403b64213c2c53fea0263b7b287cc607b3bac49dfae20ea148fbe",
@@ -359,11 +359,11 @@
       "score": 45,
       "content_hash": "7398f6e14e33e7c805a6fd141aa8226f055472d68527a9c7fa0354857e8c928d",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "岗位核心词：ai产品、产品经理",
         "对应经历：Python/SQL数据分析与AI工具应用",
@@ -373,7 +373,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "d2b2ff0c1b3964cb14264df73da32ae3cf6cfe41b0ce5929ea3788317981fda3",
@@ -394,18 +394,18 @@
       "score": 38,
       "content_hash": "4d1d7219e65e8431f4a95dc50eda517a934972fd2bf9de8844dd0646bd0a5695",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "意向城市：上海"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "e17505ae453e5306a5c1164803e06b5e6a4779efa385dff27e8fa83815859c9b",
@@ -426,11 +426,11 @@
       "score": 34,
       "content_hash": "9bb449af7d90391b468df9b8ce8c31aa06b5664825cada0c0f5571f452a3bb4f",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "对应经历：Python/SQL数据分析与AI工具应用",
         "相关能力词：aigc、大模型",
@@ -440,7 +440,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "7e2211ea62005e83c6bbf422fcea93c71309e9e277af75c6a47b97ad1767ce2c",
@@ -461,11 +461,11 @@
       "score": 28,
       "content_hash": "feaae48d3263b96be80263f920c7cfc66c0f1e69cf659018722803faccea6f22",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "对应经历：Python/SQL数据分析与AI工具应用",
         "对应经历：10余项招投标、预算复核与成本节约",
@@ -476,7 +476,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "55d03c906178f814ad124d1318ede99eae6846f1da15c34a6bce5391e915068c",
@@ -497,11 +497,11 @@
       "score": 28,
       "content_hash": "d5937ba607c54cc0f216dd70d8a887a90e2d1c6e242c34a886168ff27db458a7",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "对应经历：Python/SQL数据分析与AI工具应用",
         "对应经历：10余项招投标、预算复核与成本节约",
@@ -512,7 +512,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "62f08161d030ee66e3261eb4dd49cd9f985aa0b5edaa7a6c00cd906df155395a",
@@ -523,21 +523,21 @@
       "title": "供应链 共26个职位",
       "location": "",
       "department": "",
-      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
-      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
       "publish_date": "",
       "deadline": "",
       "job_type": "",
       "campus_year": "",
       "url": "https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=66985",
       "score": 24,
-      "content_hash": "8e4080e89eb1b6af3648bd9ce27ea3adb24a5abfcaaf08d53056a29d9bb4f810",
+      "content_hash": "addc7c4cb56683db1645b22734a1c626a56174a6fa18eba8a6ef5bcd1dc7efbb",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "UPDATED",
       "score_reasons": [
         "岗位核心词：供应链",
         "相关能力词：交付",
@@ -545,7 +545,7 @@
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "信息更新"
     },
     {
       "job_key": "91152a2526bd5a6e24c8ea235cc6113174c3df410d8b1c4ab8e099523fa1be8b",
@@ -566,18 +566,18 @@
       "score": 8,
       "content_hash": "a2be85af0b884513ae5376da0a5f42e5eb7410bb2060451c8aa931d474c73bf8",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核",
         "意向城市：杭州"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "8114e569d1ff7731a89ee740de6efe920afe13346a0360a389d99a4976efca67",
@@ -598,18 +598,18 @@
       "score": 8,
       "content_hash": "0d0927d208f5b2ecc4e235894329625399e85c60af628cac137c84296d1a4ef9",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核",
         "意向城市：杭州"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "f908186582efc772a208f54d99a18f76ca174c895d01fa596ac5197d9ec39f6d",
@@ -620,28 +620,28 @@
       "title": "产品研发创新中心 共83个职位",
       "location": "",
       "department": "",
-      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
-      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
       "publish_date": "",
       "deadline": "",
       "job_type": "",
       "campus_year": "",
       "url": "https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=51956",
       "score": 6,
-      "content_hash": "7175d8ffdf4f5bef917a075c4b16905a0361baf31eca349d5a495ba49657e654",
+      "content_hash": "81f24857279bcf0e730c36010f1925410613924bf70c96bc175c0e7b61ba7fb9",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "UPDATED",
       "score_reasons": [
         "相关能力词：交付",
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "信息更新"
     },
     {
       "job_key": "88f244b417eea1da3f5b429611423290bc3b29ed967f926174663b04849e8deb",
@@ -652,28 +652,28 @@
       "title": "销售/交付 共253个职位",
       "location": "",
       "department": "",
-      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
-      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共38个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "description": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
+      "raw_text": "产品研发创新中心 共83个职位 智能制造 共54个职位 销售/交付 共253个职位 服务 共272个职位 供应链 共26个职位 环境健康安全安保 共1个职位 职能支持 共37个职位 基础建设 共34个职位 智能制造技师班长 共52个职位 信息技术 共31个职位",
       "publish_date": "",
       "deadline": "",
       "job_type": "",
       "campus_year": "",
       "url": "https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=73319",
       "score": 6,
-      "content_hash": "bdbc9d895a5e39469dbcffadbe49ab8cd751dd4dcc17191dd8bf48ed42354594",
+      "content_hash": "ccfe1e32980541df11d8aa828c0c53319c591be8a8e8b9e1e8932c96595b6ab2",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "UPDATED",
       "score_reasons": [
         "相关能力词：交付",
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "信息更新"
     },
     {
       "job_key": "0417ac32dfa4f0658e1b11b72fcb7fad3a478901964e5c99831075cd129df037",
@@ -694,18 +694,18 @@
       "score": 6,
       "content_hash": "490724369168118654ed51d2dd8fba28d3780ac3be96191c057294d96fe4f933",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "相关能力词：运营",
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "9c2f8ae4471ddc42cd169956bfe3c08856e45f607a5fe555ef605342ef72be47",
@@ -726,18 +726,18 @@
       "score": 6,
       "content_hash": "1c6a1f907da20635d5b512a49dd4aace586ee9f5bc7a81f0b4af08848b720867",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "相关能力词：运营",
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "680d8dfdad7e520da22a5f4916daec421b8ff17324caf4c506f21e37fc53309e",
@@ -758,17 +758,17 @@
       "score": 0,
       "content_hash": "695af6256b21490e924891c285141711b008ac8cb89521cd98a13b3fd6179414",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "746fbb321252e7218602361451518f789e5fb3efb047032448ef7acb4a87bf43",
@@ -789,17 +789,17 @@
       "score": 0,
       "content_hash": "72913d781e47367d85a1221b90de6aa77aafd5b545e7420a0fb9efa1f8507211",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "6a189e2bfbf770d1f7027303c34c1fa21dc413fea0b2d3d639c67c1230a393ce",
@@ -820,18 +820,18 @@
       "score": 0,
       "content_hash": "34c8bb5e36225bfd2db323de7d3ce7d975479bd7d1909c9636f181cf297dc5ea",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "零售 / 食品饮料",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "3d5de924ef350cc0c5802c9e434f4f6749f16c9688cb6f08c43c889de70a54d9",
@@ -852,18 +852,18 @@
       "score": 0,
       "content_hash": "c22963cb518e64fa74fbfdc1c49774876a25335ce238ce7538a02758207da7d6",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "a11a7b1a9ca5cae726de3991d409d9b3f97833a468850a3299840fc2a39cfa13",
@@ -884,18 +884,18 @@
       "score": 0,
       "content_hash": "05be73615820459189502cb19a8673889ec9f74c7d1e898e81585f66845248da",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "c6ad9fe0e2ad4d7efe760370467e892e3020dcf3505fb14cff6a38efc6143136",
@@ -916,18 +916,18 @@
       "score": 0,
       "content_hash": "b556b1f8ed4c68c1b6ee848bd776f57f994750b637c87e076f8c977581da47aa",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "0f83602f16f15c30c1d04f5514fe810c5371ba2a4a8d9ec911b87254f61570ef",
@@ -948,18 +948,18 @@
       "score": 0,
       "content_hash": "594b12bd291e83bf9372a4a7796d70daee4346d036cee6d94b5ad7958970f826",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "cc3e528ec55686c8d585fd77c7bc12f2d5a65177bc48594129b12843986761f4",
@@ -980,18 +980,18 @@
       "score": 0,
       "content_hash": "96c9022400e4087cdd5980098a11b0956d85577a718d77ba04f4db8e9292b107",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "a96b458b96a6978699c442f7e3a675670e6d85c8004158c42f2cc4e8eafb3dbf",
@@ -1012,18 +1012,18 @@
       "score": 0,
       "content_hash": "c81d3c1598a13b61bc96b2982a5fe3da2dad664f77a51bfeac0657674d823fdc",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "40a1c97881815eaa2a33f6d311b465db3db5442c4537bcf14f047979919da216",
@@ -1044,18 +1044,18 @@
       "score": 0,
       "content_hash": "5c48c85aef3b40ec2af5a0d32a5cdcb375285c8fa417b06cbc93bd92371d0bb2",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "fe553249c240f2b7e429806854a04261e1a47f4c5da3d49d1fdffc7e0ba8595f",
@@ -1076,18 +1076,18 @@
       "score": 0,
       "content_hash": "f88d344ea46b30538d87c1d99d7ab29271cae611383e26d8992d8e4aa80c735f",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "学历要求可能不适配"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "306a5f66e5b0e33179b92a8f13d0fcec241f97958bb3657fdf4e8feebdf023c6",
@@ -1108,18 +1108,18 @@
       "score": 0,
       "content_hash": "14269db437c7313f6126912acd20c7846147861bd1a6099d8e130b199cfa9a0e",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "学历要求可能不适配"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "64fdcf85e8d2392d0fea8d04dc125bb3c5232e969f25a1135b0cbd297bc04c1d",
@@ -1140,18 +1140,18 @@
       "score": 0,
       "content_hash": "a158d449bab7841bc7d5c0b3b93a74abf07d2770baefd5615631727a108c4e7f",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "学历要求可能不适配"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "9a844ffc4d1f02f1e5ed8ade3b7b5b9fafbaaa7f47fae0d93ca567d87f7c6140",
@@ -1172,17 +1172,17 @@
       "score": 0,
       "content_hash": "aff5bf2499bd7839fd7fdc8189b5f64fed6ce85e2349ae7d33b275ff08380996",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "41472e7668e2f67407ae9c64129ca70da8def2f512852034f5fcb126d2512fad",
@@ -1203,17 +1203,17 @@
       "score": 0,
       "content_hash": "aa137b8b5aa3ba105a3c739297c15daeb06b9b632eb478a5213d6ab9324cb162",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "未明确标注2027届，需复核"
       ],
       "score_band": "低匹配",
       "track_label": "新能源 / 高端制造",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     },
     {
       "job_key": "9bec7e3d4877ece463ba11ca50d7d6a0f34779906217519efa685c626d29de1a",
@@ -1234,18 +1234,18 @@
       "score": 0,
       "content_hash": "43b7f6a94d706f3b49c420b8f3dd4b9496b59f2211770559e1b14c7fda8847c1",
       "first_seen_at": "2026-09-18T07:11:20+00:00",
-      "last_seen_at": "2026-09-18T07:11:20+00:00",
+      "last_seen_at": "2026-09-18T09:46:31+00:00",
       "status": "active",
       "closed_at": null,
       "miss_count": 0,
-      "latest_event": "NEW",
+      "latest_event": "SEEN",
       "score_reasons": [
         "符合2027届/校园招聘身份",
         "排除风险：社会招聘"
       ],
       "score_band": "低匹配",
       "track_label": "AI / 互联网",
-      "event_label": "今日新增"
+      "event_label": "持续招聘"
     }
   ],
   "sources": [
@@ -1261,11 +1261,11 @@
       "notes": "新零售、用户运营和产品营销",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5809,
+      "duration_ms": 5678,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1281,11 +1281,11 @@
       "notes": "供应链、项目、市场与海外",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 12914,
+      "duration_ms": 13546,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1301,11 +1301,11 @@
       "notes": "饮料产品、增长、渠道和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6717,
+      "duration_ms": 7252,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1321,11 +1321,11 @@
       "notes": "行销、渠道、运营管理和供应链",
       "last_status": "success",
       "last_error": "",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "success",
       "complete": 1,
       "job_count": 2,
-      "duration_ms": 8604,
+      "duration_ms": 8118,
       "run_error": "",
       "track_label": "零售 / 食品饮料"
     },
@@ -1341,11 +1341,11 @@
       "notes": "销售培训生、渠道和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5600,
+      "duration_ms": 5170,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1361,11 +1361,11 @@
       "notes": "未来领袖专项计划及校招",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 8634,
+      "duration_ms": 8194,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1381,11 +1381,11 @@
       "notes": "集团及品牌校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 9412,
+      "duration_ms": 8973,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1401,11 +1401,11 @@
       "notes": "运营、增长、数字化与供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5689,
+      "duration_ms": 5619,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1421,11 +1421,11 @@
       "notes": "校园招聘",
       "last_status": "success",
       "last_error": "",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "success",
       "complete": 1,
       "job_count": 7,
-      "duration_ms": 10100,
+      "duration_ms": 9199,
       "run_error": "",
       "track_label": "AI / 互联网"
     },
@@ -1441,11 +1441,11 @@
       "notes": "供应链、运营、解决方案与销售",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 9959,
+      "duration_ms": 9823,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1461,11 +1461,11 @@
       "notes": "汽车、供应链、新零售与运营",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 5,
-      "duration_ms": 14289,
+      "duration_ms": 14229,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "新能源 / 高端制造"
     },
@@ -1481,11 +1481,11 @@
       "notes": "产品、运营、商业化方向",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6217,
+      "duration_ms": 6146,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -1501,11 +1501,11 @@
       "notes": "2027校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 7080,
+      "duration_ms": 7386,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1521,11 +1521,11 @@
       "notes": "供应链、采购、项目及销售",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 10825,
+      "duration_ms": 11482,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1541,11 +1541,11 @@
       "notes": "中国职位搜索",
       "last_status": "success",
       "last_error": "",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "success",
       "complete": 1,
       "job_count": 3,
-      "duration_ms": 9506,
+      "duration_ms": 10100,
       "run_error": "",
       "track_label": "新能源 / 高端制造"
     },
@@ -1561,11 +1561,11 @@
       "notes": "供应链、运营与销售服务",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 10312,
+      "duration_ms": 11694,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1581,11 +1581,11 @@
       "notes": "校园招聘职位列表",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 8600,
+      "duration_ms": 9084,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -1601,11 +1601,11 @@
       "notes": "2027企划、营运和供应链管培",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 10178,
+      "duration_ms": 5488,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1621,11 +1621,11 @@
       "notes": "产品、运营、采购和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6094,
+      "duration_ms": 5854,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1641,11 +1641,11 @@
       "notes": "产品、运营、商业与销售方向",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 1,
-      "duration_ms": 8984,
+      "duration_ms": 8761,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "AI / 互联网"
     },
@@ -1661,11 +1661,11 @@
       "notes": "2027校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 7036,
+      "duration_ms": 6753,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -1681,11 +1681,11 @@
       "notes": "校招职位",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 7020,
+      "duration_ms": 6169,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1701,11 +1701,11 @@
       "notes": "产品、供应链、运营和管培",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5967,
+      "duration_ms": 5663,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1721,11 +1721,11 @@
       "notes": "2027届校招职位",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 6,
-      "duration_ms": 21486,
+      "duration_ms": 20746,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "AI / 互联网"
     },
@@ -1741,11 +1741,11 @@
       "notes": "总部管培、运营和供应链；排除纯门店岗位",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5452,
+      "duration_ms": 5450,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1761,11 +1761,11 @@
       "notes": "采购、供应链、营销及海外",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5294,
+      "duration_ms": 5146,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1781,11 +1781,11 @@
       "notes": "监控补录和后续批次",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5189,
+      "duration_ms": 5253,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1801,11 +1801,11 @@
       "notes": "供应链、项目与市场",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6391,
+      "duration_ms": 6277,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1821,11 +1821,11 @@
       "notes": "品牌、数字化、运营管理和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 15994,
+      "duration_ms": 13787,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1841,11 +1841,11 @@
       "notes": "校园招聘",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 1,
-      "duration_ms": 6873,
+      "duration_ms": 7066,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "AI / 互联网"
     },
@@ -1861,11 +1861,11 @@
       "notes": "健康消费、商业运营、客户解决方案",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 8751,
+      "duration_ms": 8421,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1881,11 +1881,11 @@
       "notes": "市场、数字销售和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 11987,
+      "duration_ms": 11660,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -1901,11 +1901,11 @@
       "notes": "产品、解决方案、供应链与销售",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 7371,
+      "duration_ms": 7365,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -1919,14 +1919,14 @@
       "enabled": 1,
       "cities_json": "[\"上海\"]",
       "notes": "校园招聘职位",
-      "last_status": "empty",
-      "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
-      "run_status": "empty",
+      "last_status": "timeout",
+      "last_error": "页面加载超过 45 秒",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
+      "run_status": "timeout",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5600,
-      "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
+      "duration_ms": 45030,
+      "run_error": "页面加载超过 45 秒",
       "track_label": "AI / 互联网"
     },
     {
@@ -1941,11 +1941,11 @@
       "notes": "供应链、采购与市场",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 9845,
+      "duration_ms": 9822,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -1961,11 +1961,11 @@
       "notes": "供应链、项目与国际营销",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 3,
-      "duration_ms": 11535,
+      "duration_ms": 11559,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "新能源 / 高端制造"
     },
@@ -1981,11 +1981,11 @@
       "notes": "校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6304,
+      "duration_ms": 6535,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -2001,11 +2001,11 @@
       "notes": "校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6932,
+      "duration_ms": 6739,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -2021,11 +2021,11 @@
       "notes": "项目、采购、供应链与营销",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5478,
+      "duration_ms": 5599,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -2041,11 +2041,11 @@
       "notes": "校园招聘",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 9868,
+      "duration_ms": 8163,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -2061,11 +2061,11 @@
       "notes": "AI应用、产品、解决方案与销售",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6823,
+      "duration_ms": 6683,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "AI / 互联网"
     },
@@ -2081,11 +2081,11 @@
       "notes": "市场、渠道、产品运营和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 5452,
+      "duration_ms": 5414,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     },
@@ -2101,11 +2101,11 @@
       "notes": "市场、商业、销售运营和供应链",
       "last_status": "partial",
       "last_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "partial",
       "complete": 0,
       "job_count": 7,
-      "duration_ms": 8077,
+      "duration_ms": 9284,
       "run_error": "已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架",
       "track_label": "零售 / 食品饮料"
     },
@@ -2121,11 +2121,11 @@
       "notes": "全球培训生、供应链与运营",
       "last_status": "success",
       "last_error": "",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "success",
       "complete": 1,
       "job_count": 2,
-      "duration_ms": 6940,
+      "duration_ms": 6953,
       "run_error": "",
       "track_label": "新能源 / 高端制造"
     },
@@ -2141,11 +2141,11 @@
       "notes": "解决方案、供应链和商业运营",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 12221,
+      "duration_ms": 11092,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -2161,11 +2161,11 @@
       "notes": "供应链、项目与运营",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 6683,
+      "duration_ms": 6381,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "新能源 / 高端制造"
     },
@@ -2181,11 +2181,11 @@
       "notes": "全球运营、数字化、渠道和供应链",
       "last_status": "empty",
       "last_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
-      "last_checked_at": "2026-09-18T07:11:20+00:00",
+      "last_checked_at": "2026-09-18T09:46:31+00:00",
       "run_status": "empty",
       "complete": 0,
       "job_count": 0,
-      "duration_ms": 7834,
+      "duration_ms": 8222,
       "run_error": "页面可访问，但未提取到岗位；可能需要更新适配规则",
       "track_label": "零售 / 食品饮料"
     }

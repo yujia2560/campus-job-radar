@@ -1,43 +1,43 @@
 # 秋招岗位雷达日报
 
-> 更新时间：2026-09-18 15:11
+> 更新时间：2026-09-18 17:46
 
-**在招岗位 37 个｜今日新增 37 个｜70分以上 5 个｜正常来源 4/47**
+**在招岗位 37 个｜今日新增 0 个｜70分以上 5 个｜正常来源 4/47**
 
 ## 优先关注
 
 | 匹配度 | 公司 | 岗位 | 城市 | 变化 | 推荐理由 |
 |---:|---|---|---|---|---|
-| 92 | 达能中国 | [市场营销管培生-达能中国 广东](https://app.mokahr.com/campus-recruitment/danone/170511#/job/41d7477b-6d4f-4a0c-b782-0fa9ce0a0e4c) | 上海 / 广州 | 今日新增 | 岗位核心词：管培生；对应经历：海外C端投放与安装—注册—留存—付费漏斗；对应经历：Python/SQL数据分析与AI工具应用 |
-| 75 | 达能中国 | [医药管培生-达能成人医学营养-广州 广东](https://app.mokahr.com/campus-recruitment/danone/170511#/job/df1b15c1-8586-4ea2-922a-5fdc318b1ca9) | 广州 | 今日新增 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
-| 75 | 达能中国 | [医药管培生-达能成人医学营养-杭州 浙江](https://app.mokahr.com/campus-recruitment/danone/170511#/job/35477de1-be0d-4476-a634-e5d230b960f8) | 杭州 | 今日新增 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
-| 70 | 达能中国 | [营运管培生-区域制造-达能中国饮料-丰润(唐山) 河北](https://app.mokahr.com/campus-recruitment/danone/170511#/job/31745366-e987-4367-9ffd-234164c83edb) | 待确认 | 今日新增 | 岗位核心词：管培生；对应经历：Python/SQL数据分析与AI工具应用；相关能力词：数字化 |
-| 70 | 达能中国 | [营运管培生-区域制造-达能中国饮料-武汉 湖北](https://app.mokahr.com/campus-recruitment/danone/170511#/job/97a21c8f-d938-4c58-8b50-3e4eed2fc1b6) | 武汉 | 今日新增 | 岗位核心词：管培生；对应经历：Python/SQL数据分析与AI工具应用；相关能力词：数字化 |
-| 67 | 达能中国 | [医药管培生-达能成人医学营养-南京 江苏](https://app.mokahr.com/campus-recruitment/danone/170511#/job/a121f5c1-332f-4b15-9e45-9df116af13ef) | 南京 | 今日新增 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
-| 63 | 达能中国 | [营运管培生-区域质量-达能中国饮料-邛崃 四川](https://app.mokahr.com/campus-recruitment/danone/170511#/job/5bf36198-6f7d-426a-ada4-7ec5d581513a) | 成都 | 今日新增 | 岗位核心词：管培生；对应经历：多方沟通和跨部门项目推进；符合2027届/校园招聘身份 |
-| 46 | 奇瑞汽车 | [全球采购中心 共28个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2210%22%2C%22label%22%3A%22%E5%85%A8%E7%90%83%E9%87%87%E8%B4%AD%E4%B8%AD%E5%BF%83%22%7D%5D) | 广州 | 今日新增 | 岗位核心词：采购；对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约 |
-| 45 | 阿里巴巴 | [AI产品经理-智能体 展开详情 更新于 2026-09-07 产品类 杭州 在招业务 千问办公](https://campus-talent.alibaba.com/campus/position/199908580004?deptCodes=) | 杭州 | 今日新增 | 岗位核心词：ai产品、产品经理；对应经历：Python/SQL数据分析与AI工具应用；未明确标注2027届，需复核 |
-| 45 | 阿里巴巴 | [AI产品经理-超级智能体 展开详情 更新于 2026-08-28 产品类 北京 / 广州 / 杭州 在招业务 千问事业部](https://campus-talent.alibaba.com/campus/position/199907680002?deptCodes=) | 杭州 / 广州 / 北京 | 今日新增 | 岗位核心词：ai产品、产品经理；对应经历：Python/SQL数据分析与AI工具应用；未明确标注2027届，需复核 |
-| 38 | 阿里巴巴 | [阿里云管培生-商业技术方向 展开详情 更新于 2026-09-01 销售类 北京 / 杭州 / 上海 / 深圳 在招业务 阿里云](https://campus-talent.alibaba.com/campus/position/199907780029?deptCodes=) | 上海 / 深圳 / 杭州 / 北京 | 今日新增 | 符合2027届/校园招聘身份；意向城市：上海 |
-| 34 | 阿里巴巴 | [风险策略分析师 展开详情 更新于 2026-08-28 风险管理类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199909260001?deptCodes=) | 上海 / 杭州 / 北京 | 今日新增 | 对应经历：Python/SQL数据分析与AI工具应用；相关能力词：aigc、大模型；未明确标注2027届，需复核 |
-| 28 | 奇瑞汽车 | [全球物流事业部 共33个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2241%22%2C%22label%22%3A%22%E5%85%A8%E7%90%83%E7%89%A9%E6%B5%81%E4%BA%8B%E4%B8%9A%E9%83%A8%22%7D%5D) | 广州 | 今日新增 | 对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约；相关能力词：数字化 |
-| 28 | 奇瑞汽车 | [数字化智能中心 共30个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2272%22%2C%22label%22%3A%22%E6%95%B0%E5%AD%97%E5%8C%96%E6%99%BA%E8%83%BD%E4%B8%AD%E5%BF%83%22%7D%5D) | 广州 | 今日新增 | 对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约；相关能力词：数字化 |
-| 24 | 特斯拉中国 | [供应链 共26个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=66985) | 待确认 | 今日新增 | 岗位核心词：供应链；相关能力词：交付；未明确标注2027届，需复核 |
-| 8 | 阿里巴巴 | [User Operations- Forward Youth Program (TH/ID/VN/MY/PH) 展开详情 更新于 2026-09-08 运营类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199907640029?deptCodes=) | 杭州 | 今日新增 | 未明确标注2027届，需复核；意向城市：杭州 |
-| 8 | 阿里巴巴 | [供应链运营-俄语 展开详情 更新于 2026-08-31 运营类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199909220002?deptCodes=) | 杭州 | 今日新增 | 未明确标注2027届，需复核；意向城市：杭州 |
-| 6 | 特斯拉中国 | [产品研发创新中心 共83个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=51956) | 待确认 | 今日新增 | 相关能力词：交付；未明确标注2027届，需复核 |
-| 6 | 特斯拉中国 | [销售/交付 共253个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=73319) | 待确认 | 今日新增 | 相关能力词：交付；未明确标注2027届，需复核 |
-| 6 | 远景动力 | [仓储物流类 共0个职位](https://aesc-group.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%225%22%2C%22label%22%3A%22%E4%BB%93%E5%82%A8%E7%89%A9%E6%B5%81%E7%B1%BB%22%7D%5D) | 待确认 | 今日新增 | 相关能力词：运营；未明确标注2027届，需复核 |
-| 6 | 远景动力 | [生产运营类 共0个职位](https://aesc-group.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E7%94%9F%E4%BA%A7%E8%BF%90%E8%90%A5%E7%B1%BB%22%7D%5D) | 待确认 | 今日新增 | 相关能力词：运营；未明确标注2027届，需复核 |
-| 0 | 京东 | [首页 招聘职位 招聘动态 人才项目 关于京东 登录](https://campus.jd.com/#/jobs) | 待确认 | 今日新增 | 未明确标注2027届，需复核 |
-| 0 | 农夫山泉/养生堂 | [市场品牌类 共3个职位](https://app.mokahr.com/campus-recruitment/yst/68367?sourceToken=300d8e619a9064f2f0b3573441f3bf8f#/jobs?zhineng%5B0%5D=137380&zhineng%5B1%5D=191690) | 待确认 | 今日新增 | 未明确标注2027届，需复核 |
-| 0 | 农夫山泉/养生堂 | [校园招聘 首页 社会招聘 职位列表 人才项目 校招Q&A 关于我们 登录](https://app.mokahr.com/campus-recruitment/yst/68367?sourceToken=300d8e619a9064f2f0b3573441f3bf8f#/jobs) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [产品与技术](https://jobs.bytedance.com/campus/page-AgCQiO) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/position) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/page-6272Gc) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
-| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/page-3pEJ9S) | 待确认 | 今日新增 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 92 | 达能中国 | [市场营销管培生-达能中国 广东](https://app.mokahr.com/campus-recruitment/danone/170511#/job/41d7477b-6d4f-4a0c-b782-0fa9ce0a0e4c) | 上海 / 广州 | 持续招聘 | 岗位核心词：管培生；对应经历：海外C端投放与安装—注册—留存—付费漏斗；对应经历：Python/SQL数据分析与AI工具应用 |
+| 75 | 达能中国 | [医药管培生-达能成人医学营养-广州 广东](https://app.mokahr.com/campus-recruitment/danone/170511#/job/df1b15c1-8586-4ea2-922a-5fdc318b1ca9) | 广州 | 持续招聘 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
+| 75 | 达能中国 | [医药管培生-达能成人医学营养-杭州 浙江](https://app.mokahr.com/campus-recruitment/danone/170511#/job/35477de1-be0d-4476-a634-e5d230b960f8) | 杭州 | 持续招聘 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
+| 70 | 达能中国 | [营运管培生-区域制造-达能中国饮料-丰润(唐山) 河北](https://app.mokahr.com/campus-recruitment/danone/170511#/job/31745366-e987-4367-9ffd-234164c83edb) | 待确认 | 持续招聘 | 岗位核心词：管培生；对应经历：Python/SQL数据分析与AI工具应用；相关能力词：数字化 |
+| 70 | 达能中国 | [营运管培生-区域制造-达能中国饮料-武汉 湖北](https://app.mokahr.com/campus-recruitment/danone/170511#/job/97a21c8f-d938-4c58-8b50-3e4eed2fc1b6) | 武汉 | 持续招聘 | 岗位核心词：管培生；对应经历：Python/SQL数据分析与AI工具应用；相关能力词：数字化 |
+| 67 | 达能中国 | [医药管培生-达能成人医学营养-南京 江苏](https://app.mokahr.com/campus-recruitment/danone/170511#/job/a121f5c1-332f-4b15-9e45-9df116af13ef) | 南京 | 持续招聘 | 岗位核心词：管培生；对应经历：7个项目一线检查与整改闭环；对应经历：多方沟通和跨部门项目推进 |
+| 63 | 达能中国 | [营运管培生-区域质量-达能中国饮料-邛崃 四川](https://app.mokahr.com/campus-recruitment/danone/170511#/job/5bf36198-6f7d-426a-ada4-7ec5d581513a) | 成都 | 持续招聘 | 岗位核心词：管培生；对应经历：多方沟通和跨部门项目推进；符合2027届/校园招聘身份 |
+| 46 | 奇瑞汽车 | [全球采购中心 共28个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2210%22%2C%22label%22%3A%22%E5%85%A8%E7%90%83%E9%87%87%E8%B4%AD%E4%B8%AD%E5%BF%83%22%7D%5D) | 广州 | 持续招聘 | 岗位核心词：采购；对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约 |
+| 45 | 阿里巴巴 | [AI产品经理-智能体 展开详情 更新于 2026-09-07 产品类 杭州 在招业务 千问办公](https://campus-talent.alibaba.com/campus/position/199908580004?deptCodes=) | 杭州 | 持续招聘 | 岗位核心词：ai产品、产品经理；对应经历：Python/SQL数据分析与AI工具应用；未明确标注2027届，需复核 |
+| 45 | 阿里巴巴 | [AI产品经理-超级智能体 展开详情 更新于 2026-08-28 产品类 北京 / 广州 / 杭州 在招业务 千问事业部](https://campus-talent.alibaba.com/campus/position/199907680002?deptCodes=) | 杭州 / 广州 / 北京 | 持续招聘 | 岗位核心词：ai产品、产品经理；对应经历：Python/SQL数据分析与AI工具应用；未明确标注2027届，需复核 |
+| 38 | 阿里巴巴 | [阿里云管培生-商业技术方向 展开详情 更新于 2026-09-01 销售类 北京 / 杭州 / 上海 / 深圳 在招业务 阿里云](https://campus-talent.alibaba.com/campus/position/199907780029?deptCodes=) | 上海 / 深圳 / 杭州 / 北京 | 持续招聘 | 符合2027届/校园招聘身份；意向城市：上海 |
+| 34 | 阿里巴巴 | [风险策略分析师 展开详情 更新于 2026-08-28 风险管理类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199909260001?deptCodes=) | 上海 / 杭州 / 北京 | 持续招聘 | 对应经历：Python/SQL数据分析与AI工具应用；相关能力词：aigc、大模型；未明确标注2027届，需复核 |
+| 28 | 奇瑞汽车 | [全球物流事业部 共33个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2241%22%2C%22label%22%3A%22%E5%85%A8%E7%90%83%E7%89%A9%E6%B5%81%E4%BA%8B%E4%B8%9A%E9%83%A8%22%7D%5D) | 广州 | 持续招聘 | 对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约；相关能力词：数字化 |
+| 28 | 奇瑞汽车 | [数字化智能中心 共30个职位](https://chery.zhiye.com/campus/jobs?2=%5B%7B%22id%22%3A%2272%22%2C%22label%22%3A%22%E6%95%B0%E5%AD%97%E5%8C%96%E6%99%BA%E8%83%BD%E4%B8%AD%E5%BF%83%22%7D%5D) | 广州 | 持续招聘 | 对应经历：Python/SQL数据分析与AI工具应用；对应经历：10余项招投标、预算复核与成本节约；相关能力词：数字化 |
+| 24 | 特斯拉中国 | [供应链 共26个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=66985) | 待确认 | 信息更新 | 岗位核心词：供应链；相关能力词：交付；未明确标注2027届，需复核 |
+| 8 | 阿里巴巴 | [User Operations- Forward Youth Program (TH/ID/VN/MY/PH) 展开详情 更新于 2026-09-08 运营类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199907640029?deptCodes=) | 杭州 | 持续招聘 | 未明确标注2027届，需复核；意向城市：杭州 |
+| 8 | 阿里巴巴 | [供应链运营-俄语 展开详情 更新于 2026-08-31 运营类 杭州 在招业务 阿里国际数字商业集团](https://campus-talent.alibaba.com/campus/position/199909220002?deptCodes=) | 杭州 | 持续招聘 | 未明确标注2027届，需复核；意向城市：杭州 |
+| 6 | 特斯拉中国 | [产品研发创新中心 共83个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=51956) | 待确认 | 信息更新 | 相关能力词：交付；未明确标注2027届，需复核 |
+| 6 | 特斯拉中国 | [销售/交付 共253个职位](https://app.mokahr.com/social-recruitment/tesla/46129?locale=zh-CN#/jobs?zhineng%5B0%5D=73319) | 待确认 | 信息更新 | 相关能力词：交付；未明确标注2027届，需复核 |
+| 6 | 远景动力 | [仓储物流类 共0个职位](https://aesc-group.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%225%22%2C%22label%22%3A%22%E4%BB%93%E5%82%A8%E7%89%A9%E6%B5%81%E7%B1%BB%22%7D%5D) | 待确认 | 持续招聘 | 相关能力词：运营；未明确标注2027届，需复核 |
+| 6 | 远景动力 | [生产运营类 共0个职位](https://aesc-group.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E7%94%9F%E4%BA%A7%E8%BF%90%E8%90%A5%E7%B1%BB%22%7D%5D) | 待确认 | 持续招聘 | 相关能力词：运营；未明确标注2027届，需复核 |
+| 0 | 京东 | [首页 招聘职位 招聘动态 人才项目 关于京东 登录](https://campus.jd.com/#/jobs) | 待确认 | 持续招聘 | 未明确标注2027届，需复核 |
+| 0 | 农夫山泉/养生堂 | [市场品牌类 共3个职位](https://app.mokahr.com/campus-recruitment/yst/68367?sourceToken=300d8e619a9064f2f0b3573441f3bf8f#/jobs?zhineng%5B0%5D=137380&zhineng%5B1%5D=191690) | 待确认 | 持续招聘 | 未明确标注2027届，需复核 |
+| 0 | 农夫山泉/养生堂 | [校园招聘 首页 社会招聘 职位列表 人才项目 校招Q&A 关于我们 登录](https://app.mokahr.com/campus-recruitment/yst/68367?sourceToken=300d8e619a9064f2f0b3573441f3bf8f#/jobs) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [产品与技术](https://jobs.bytedance.com/campus/page-AgCQiO) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/position) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/page-6272Gc) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
+| 0 | 字节跳动 | [校招 首页 技术人才项目 职位 招聘动态 产品与技术 成长与回报 社会招聘 登录](https://jobs.bytedance.com/campus/page-3pEJ9S) | 待确认 | 持续招聘 | 符合2027届/校园招聘身份；排除风险：社会招聘 |
 
 ## 来源健康状态
 
@@ -76,7 +76,7 @@
 | 仙乐健康 | moka | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
 | 伊利 | dayee | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
 | 华为 | custom | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
-| 哔哩哔哩 | custom | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
+| 哔哩哔哩 | custom | timeout | 0 | 页面加载超过 45 秒 |
 | 国轩高科 | beisen | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
 | 奇瑞汽车 | beisen | partial | 3 | 已提取部分岗位，但无法确认滚动或分页已完整结束；本次不据此判定岗位下架 |
 | 快手 | custom | empty | 0 | 页面可访问，但未提取到岗位；可能需要更新适配规则 |
